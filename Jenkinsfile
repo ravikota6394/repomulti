@@ -1,4 +1,4 @@
-node('master') 
+node('build_in') 
 {
     stage('Continuous Download_loan') 
 	{
